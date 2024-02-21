@@ -1,5 +1,5 @@
-.idea/
-.ipynb_checkpoints/
-HermitianUnitaryTensorCircuits/
+.idea/*.log
+.ipynb_checkpoints/*.log
+HermitianUnitaryTensorCircuits/*.log
 main.py
 venv
